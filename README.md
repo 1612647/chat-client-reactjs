@@ -1,5 +1,5 @@
 
-  chat server:  [https://github.com/thi174hcmus/chat-client-reactjs](http://github.com/thi174hcmus/chat-client-reactjs) . 
+  chat server:  [https://github.com/thi174hcmus/chat-server-nodejs](http://github.com/thi174hcmus/chat-server-nodejs) . 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
